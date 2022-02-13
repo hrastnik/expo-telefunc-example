@@ -1,0 +1,3 @@
+[submodule "telefunc"]
+	path = telefunc
+	url = https://github.com/hrastnik/telefunc
